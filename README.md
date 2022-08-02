@@ -43,7 +43,7 @@ Project created by <a href="https://github.com/TURBOHYPER">MrX</a> to make it pu
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@generalwebsitex1/MrX-WhatsApp-Assistant?output%20only=1&lite=1#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-AlexaV3?output%20only=1&lite=1#index.js)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/generalwebsitex1/MrX-WhatsApp-Assistant) 
 <br>
