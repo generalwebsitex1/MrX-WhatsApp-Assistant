@@ -1,0 +1,3 @@
+{
+	"name": "MrX WhatsApp Assistant"
+}
