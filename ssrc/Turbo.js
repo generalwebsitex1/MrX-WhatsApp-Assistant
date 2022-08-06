@@ -1,3 +1,0 @@
-{
-	"name": "MrX WhatsApp Assistant"
-}
