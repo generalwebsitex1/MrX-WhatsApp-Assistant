@@ -1,0 +1,24 @@
+{
+  "name": "MrX WhatsApp Assistant",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/generalwebsitex1/MrX-WhatsApp-Assistant",
+  "logo": "http://tiny.cc/mylogo",
+  "keywords": ["nodejs", "toxic-alexa_v3", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
